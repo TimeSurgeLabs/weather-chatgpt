@@ -1,0 +1,17 @@
+{
+  "schema_version": "v1",
+  "name_for_human": "Weather for ChatGPT",
+  "name_for_model": "weather",
+  "description_for_human": "Get and search weather with ChatGPT.",
+  "description_for_model": "Plugin for getting weather data",
+  "auth": {
+    "type": "none"
+  },
+  "api": {
+    "type": "openapi",
+    "url": "http://localhost:8000/openapi.json"
+  },
+  "logo_url": "https://openmoji.org/data/color/svg/26C5.svg",
+  "contact_email": "chandler@timesurgelabs.com",
+  "legal_info_url": "http://www.example.com/legal"
+}
